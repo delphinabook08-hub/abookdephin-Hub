@@ -1,0 +1,6 @@
+{
+  "name": "Association de Multi-Services (AMS)",
+  "description": "Portail officiel des Statuts Constitutifs et du Règlement d'Ordre Intérieur (ROI) de l'AMS à Bunia, Province de l'Ituri, République Démocratique du Congo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
